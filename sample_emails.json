@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "email": "Hello team, I would like to know the pricing details for your premium support plan."
+  },
+  {
+    "id": 2,
+    "email": "I am very frustrated because my order arrived late and the product is damaged."
+  },
+  {
+    "id": 3,
+    "email": "Thank you for the recent update. I love the new dashboard, but a dark mode feature would be a great improvement."
+  },
+  {
+    "id": 4,
+    "email": "Can you tell me when the next training session is available?"
+  },
+  {
+    "id": 5,
+    "email": "The application is not working after the latest release, and this is causing a major problem for our team."
+  }
+]

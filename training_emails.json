@@ -1,0 +1,62 @@
+[
+  {
+    "email": "Can you share the pricing for your business subscription plan?",
+    "category": "Inquiry"
+  },
+  {
+    "email": "I want more information about your onboarding process.",
+    "category": "Inquiry"
+  },
+  {
+    "email": "Please let me know when the next workshop is available.",
+    "category": "Inquiry"
+  },
+  {
+    "email": "How can I upgrade my account and what does it cost?",
+    "category": "Inquiry"
+  },
+  {
+    "email": "Where can I find the product documentation for setup?",
+    "category": "Inquiry"
+  },
+  {
+    "email": "My order arrived late and the package was damaged.",
+    "category": "Complaint"
+  },
+  {
+    "email": "The app keeps showing an error and is not working properly.",
+    "category": "Complaint"
+  },
+  {
+    "email": "I am unhappy with the poor service and need a refund.",
+    "category": "Complaint"
+  },
+  {
+    "email": "There is a serious problem with the recent release.",
+    "category": "Complaint"
+  },
+  {
+    "email": "The device is broken and support has not helped.",
+    "category": "Complaint"
+  },
+  {
+    "email": "I love the new dashboard and appreciate the cleaner design.",
+    "category": "Feedback"
+  },
+  {
+    "email": "Thank you for the update, the experience is much better now.",
+    "category": "Feedback"
+  },
+  {
+    "email": "I have a suggestion to add dark mode in the next version.",
+    "category": "Feedback"
+  },
+  {
+    "email": "The feature is excellent, but reporting can still improve.",
+    "category": "Feedback"
+  },
+  {
+    "email": "We are satisfied overall and would recommend this product.",
+    "category": "Feedback"
+  }
+]
